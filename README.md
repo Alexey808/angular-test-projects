@@ -1,2 +1,2 @@
-# angular-test-projects
+# test-projects
 root for all projects
